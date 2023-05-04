@@ -32,12 +32,6 @@ To set up this project locally please follow the steps below:
 $ git clone <repo-url>
 $ cd fe-nc-geobook
 ```
-
-2. Install all dev dependencies:
-```
-npm install
-```
-
 3. You will need to create a file in the root directory called 'firebaseConfig.js' and include the following code, adding your own Firebase config details.
 ```
 import { initializeApp } from "firebase/app";
@@ -57,7 +51,12 @@ export const auth = getAuth(app);
 export default app
 ```
 
-4. To view the app run:
+4. Install all dev dependencies:
+```
+npm install
+```
+
+5. To view the app run:
 ```
 npx expo
 ```
