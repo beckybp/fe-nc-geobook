@@ -1,4 +1,4 @@
-# GeoBook README
+# GeoBook front-end README
 
 To view a demo of the app, please visit: https://vimeo.com/823682896?share=copy
 
@@ -14,8 +14,7 @@ The user area allows users to view a list of books they've previously found.
 
 ## Back-end
 
-The Github repository for the back-end can be found here:
-https://github.com/beckybp/be-fe-geobook
+The Github repository for the back-end can be found here: https://github.com/beckybp/be-nc-geobook
 
 ## Minimum version of Node required
 
