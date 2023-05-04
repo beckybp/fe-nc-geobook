@@ -1,4 +1,4 @@
-# Geobook README
+# GeoBook README
 
 To view a demo of the app, please visit: https://vimeo.com/823682896?share=copy
 
@@ -6,7 +6,7 @@ To view a demo of the app, please visit: https://vimeo.com/823682896?share=copy
 
 This is a final group project I worked on while on the Northcoders software development bootcamp.
 
-GeoBook is an app that allows users to hide and collect books anywhere accross the world.
+GeoBook is a geocaching app that allows users to hide and collect books anywhere accross the world.
 
 On the interactive map screen, the app tracks your location (if the user allows permissions) and displays books markers at locations where books can be found. Once a user has found a book, they can swap the book with one they've alredy read. Users can also add new books at new locations.
 
